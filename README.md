@@ -1,3 +1,3 @@
 # Demo
 This is a Demo Project 
-Author: Wafadar Abbas
+Author: Wafadar Abbas Git
